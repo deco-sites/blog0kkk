@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://blog0kkk-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "e75c91d18d34f97949e6cc16021b86962f0769f8ba8f1dbc7d6f87ca2f8503a248c174b35b124c4592c88b3d23d7fcb06edbe6ba62f57c54c074f72cea1d65f2f42e56543ee9eeeadecf59cc9d63e12499e55ebd0d9a780da446cf342b86c79190536a97904315c0f9cc1a64cf6278ed865f1e04bfaacee6fea3543d17529a750620cf8bc65f8206d7534940e7951290967423d6e1ff2c5c1c76d98343a371607b570e78a04d947fb1671da3736ff170a60dc31ad9406585101a9af45a4d822d3a788fc7ec5fb9f0f152d5bbf07595f2fafc992285dda5df72c7015eded980b9"
+  }
+}
